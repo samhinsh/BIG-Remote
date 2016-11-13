@@ -1,7 +1,5 @@
 BIG-Remote
 ==========
-Author: Samuel Hinshelwood Jr. 
-
 ![Alt text](wiimote.jpg?raw=true "wiimote")
 
 A "remote" meant for controlling other devices using hand-orientation data.
