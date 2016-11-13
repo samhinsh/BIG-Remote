@@ -2,7 +2,12 @@ BIG-Remote
 ==========
 Author: Samuel Hinshelwood Jr. 
 
+![Alt text](wiimote.jpg?raw=true "wiimote")
+
+A "remote" meant for controlling other devices using hand-orientation data.
+
 Functional Outline for the Bluetooth-Integrated Gyroscopic Remote Control
+==========
 
 Software:
 
